@@ -1,0 +1,8 @@
+D:\Service\InstallWindowsService\InstallWindowsService\obj\Debug\InstallWindowsService.csproj.AssemblyReference.cache
+D:\Service\InstallWindowsService\InstallWindowsService\obj\Debug\InstallWindowsService.csproj.SuggestedBindingRedirects.cache
+D:\Service\InstallWindowsService\InstallWindowsService\obj\Debug\InstallWindowsService.csproj.CoreCompileInputs.cache
+D:\Service\InstallWindowsService\InstallWindowsService\bin\Debug\InstallWindowsService.exe.config
+D:\Service\InstallWindowsService\InstallWindowsService\bin\Debug\InstallWindowsService.exe
+D:\Service\InstallWindowsService\InstallWindowsService\bin\Debug\InstallWindowsService.pdb
+D:\Service\InstallWindowsService\InstallWindowsService\obj\Debug\InstallWindowsService.exe
+D:\Service\InstallWindowsService\InstallWindowsService\obj\Debug\InstallWindowsService.pdb
